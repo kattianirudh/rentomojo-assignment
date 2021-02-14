@@ -1,0 +1,18 @@
+.post-back {
+    display: flex;
+}
+.f-end {
+    // display: flex!important;
+    float:right
+    // margin-right: auto;
+}
+.comment-header {
+    display:flex;
+    justify-content: space-between;
+    .comment-email {
+        color: grey;
+    }
+    .comment-name {
+
+    }
+}

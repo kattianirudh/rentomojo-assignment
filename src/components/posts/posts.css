@@ -1,0 +1,8 @@
+.posts-title {
+    text-align: center;
+}
+
+.center-pagination {
+    display: flex;
+    justify-content: space-around;
+}
